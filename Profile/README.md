@@ -9,7 +9,7 @@ At **Laerdal Medical**, our vision is that no one should die or be disabled unne
 
 ![Laerdal Work](https://laerdal.com/cdn-cgi/image/width=1440,height=810,format=avif,fit=crop,quality=65/cdn-497800/globalassets/images--blocks/work-at-laerdal/_8ln7309.jpg)
 
-We are looking for **talented individuals** who are passionate about making a difference in the world. We are looking for people who are passionate about hardware design & software development, who are eager to learn and grow, and who are excited about the opportunity to work with cutting-edge technology to help save lives.
+We are looking for **talented individuals** who are passionate about making a difference in the world. We are looking for people who are passionate about hardware design & software development, who are eager to learn and grow, and who are excited on the prospects of working on cutting-edge technologies to help save lives.
 
 
 ### Sounds like you ? : ➡️ [Working at Laerdal](https://laerdal.com/gb/about-us/working-at-laerdal/)
