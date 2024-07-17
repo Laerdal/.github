@@ -1,8 +1,8 @@
-# Helping save lives, using **software** 🚀
+# Helping save lives, using **software**
 
 ![Laerdal Banner](https://laerdal.com/cdn-cgi/image/width=1440,height=507,format=avif,fit=crop,quality=65/cdn-49c237/globalassets/images--blocks/about-us/laerdal-group/hero-lg-2.png)
 
-At **Laerdal Medical**, Our vision is that no one should die or be disabled unnecessarily during birth or from sudden illness, trauma, or medical errors. We have set a clear vision, an ambitious goal, and a roadmap to get us there. But we know that we cannot get there alone. 
+At **Laerdal Medical**, Our vision is that no one should die or be disabled unnecessarily during birth or from sudden illness, trauma, or medical errors. We have set a clear vision, an ambitious goal, and a roadmap to get us there. But we know that we cannot get there alone.
 
 
 ## Join us. Make a difference.
@@ -17,7 +17,8 @@ We are looking for **talented individuals** who are passionate about making a di
 ## Sharing is caring.
 
 We believe that sharing knowledge is the key to success. We are committed to sharing our knowledge and expertise with the world, and we are always looking for new ways to collaborate with others to help make the world a better place.
-This is why you can also help us save lives by using, sharing and contributing to our **open-source projects** 🚀.
+
+This is why you can also help us save lives by using, sharing and contributing to our **open-source projects** 📖.
 
 ### Check out our projects : ➡️ [Laerdal Open-Source Repositories](https://github.com/orgs/Laerdal/repositories)
 
