@@ -1,8 +1,8 @@
-# Helping save lives, using **software**
+# Helping save lives, using **Hardware** & **Software**
 
 ![Laerdal Banner](https://laerdal.com/cdn-cgi/image/width=1440,height=507,format=avif,fit=crop,quality=65/cdn-49c237/globalassets/images--blocks/about-us/laerdal-group/hero-lg-2.png)
 
-At **Laerdal Medical**, Our vision is that no one should die or be disabled unnecessarily during birth or from sudden illness, trauma, or medical errors. We have set a clear vision, an ambitious goal, and a roadmap to get us there. But we know that we cannot get there alone.
+At **Laerdal Medical**, our vision is that no one should die or be disabled unnecessarily during birth or from sudden illness, trauma, or medical errors. We have set a clear vision, an ambitious goal, and a roadmap to get us there. But we know that we cannot get there alone.
 
 
 ## Join us. Make a difference.
