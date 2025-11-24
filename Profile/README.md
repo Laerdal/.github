@@ -1,4 +1,4 @@
-# Helping save lives, using **Hardware** & **Software**
+# Helping save lives, sharing software 🚀
 
 ![Laerdal Banner](https://laerdal.com/cdn-cgi/image/width=1440,height=507,format=avif,fit=crop,quality=65/cdn-49c237/globalassets/images--blocks/about-us/laerdal-group/hero-lg-2.png)
 
